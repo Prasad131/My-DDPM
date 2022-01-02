@@ -1,0 +1,4 @@
+  File "my_ddpm.py", line 96
+    e = model.predict([u,np.ones(test_size)*(i+1))
+                                                 ^
+SyntaxError: invalid syntax
